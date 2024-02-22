@@ -8,3 +8,5 @@ function App(): JSX.Element {
     </View>
   );
 }
+
+export default App;
