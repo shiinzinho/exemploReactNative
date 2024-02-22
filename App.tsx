@@ -4,7 +4,9 @@ import { Text, View } from "react-native";
 function App(): JSX.Element {
   return (
     <View>
-      <Text>eita</Text>
+      <Text>
+        Teste de App
+      </Text>
     </View>
   );
 }
